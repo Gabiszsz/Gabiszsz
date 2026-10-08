@@ -1,158 +1,165 @@
-# 👩🏻‍💻 Gabriella Alves do Nascimento
+<div align="center">
 
-### `Estudante de Sistemas de Informação | Desenvolvedora em formação`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Gabriella+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%8C%B1" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Desenvolvedora em formação • 🎓 Sistemas de Informação • 🚀 Tecnologia
+
+</div>
+
+<br>
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 👩🏻‍💻 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação no IF Goiano – Campus Urutaí**
-💻 Interesse em **Desenvolvimento Web, Back-end, Front-end e Engenharia de Software**
-🌱 Atualmente aprendendo, criando projetos e explorando novas tecnologias.
+
+💻 Interessada em **desenvolvimento web, back-end, front-end e engenharia de software**
+
+🌱 Atualmente estudando e desenvolvendo projetos com diferentes tecnologias.
+
+🧠 Gosto de aprender, resolver problemas e transformar ideias em projetos.
+
+🔎 Atualmente buscando oportunidades para crescer profissionalmente na área de **Tecnologia da Informação**.
+
+<br clear="right"/>
 
 ---
 
-## ✨ Sobre mim
+## 🚀 Tecnologias
 
-Sou estudante de **Sistemas de Informação**, apaixonada por tecnologia e sempre buscando aprender algo novo.
+<div align="center">
 
-Atualmente, estou desenvolvendo minhas habilidades em programação e desenvolvimento de sistemas, com interesse principalmente em **desenvolvimento web e análise de requisitos**. Também gosto de trabalhar em equipe, resolver problemas e transformar ideias em soluções.
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,html,css,bootstrap,flutter,dart,mysql,mongodb,git,github,vscode&perline=5" />
 
-Minha trajetória acadêmica também inclui experiências com **Iniciação Científica, Internet das Coisas, robótica, pensamento computacional e projetos de extensão**.
-
----
-
-## 💻 Tecnologias
-
-### Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### Back-end
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### Banco de Dados & APIs
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+</div>
 
 ---
 
-## 🛠️ Ferramentas
+## 📂 Alguns projetos
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<table>
+<tr>
 
----
-
-## 🚀 Projetos em destaque
+<td width="50%">
 
 ### 🦮 Cão-Guia Digital
 
 Projeto de extensão voltado à **acessibilidade e inclusão de pessoas com deficiência visual**.
 
-A plataforma busca reunir informações sobre cães-guia, voluntariado, adoção, notícias e comunicação, além de trabalhar com recursos de acessibilidade e assistente virtual.
+🛠️ Java • Spring Boot • SQL • JavaScript
 
-**Tecnologias:** Java • Spring Boot • SQL • HTML • CSS • JavaScript
+</td>
 
----
+<td width="50%">
 
 ### 📦 API Estoque & Pedidos
 
 API desenvolvida para praticar **Java, Spring Boot, banco de dados e regras de negócio**.
 
-O projeto trabalha com produtos, fornecedores e pedidos, incluindo validações, controle de estoque, pagamentos e cancelamentos.
+🛠️ Java • Spring Boot • MySQL • REST API
 
-**Tecnologias:** Java • Spring Boot • MySQL • REST API
+</td>
 
----
+</tr>
 
-### 📱 Flutter — Estudos e Projetos
+<tr>
 
-Repositório dedicado aos meus estudos de **Flutter e Dart**, reunindo exercícios e aplicações desenvolvidas durante o aprendizado de desenvolvimento mobile.
+<td width="50%">
 
-**Tecnologias:** Flutter • Dart
+### 📱 Flutter
 
----
+Repositório com meus **estudos, exercícios e projetos em Flutter e Dart**.
 
-## 🧪 Experiências Acadêmicas
+🛠️ Flutter • Dart
 
-🔬 **Iniciação Científica — IF Goiano**
+</td>
 
-Desenvolvimento de uma estação meteorológica de baixo custo, incluindo testes em maquete, programação de sensores em **Python e C** e conceitos de **Internet das Coisas**.
+<td width="50%">
 
-🤖 **Prototipagem e Letramento Digital**
+### 🤖 Projetos Acadêmicos
 
-Participação em projeto voltado à educação básica, com realização de oficinas utilizando **Arduino, Tinkercad e atividades de raciocínio lógico**.
+Experiências com **IoT, Arduino, Python, C, robótica e pensamento computacional**.
 
-💡 **TecnoHub SI**
+🛠️ Python • C • Arduino • Tinkercad
 
-Participação em projeto de extensão voltado à **divulgação e democratização do conhecimento em informática**, com produção de conteúdos educativos e participação em eventos.
+</td>
 
----
-
-## 🎓 Formação
-
-🎓 **Bacharelado em Sistemas de Informação**
-IF Goiano — Campus Urutaí
-2024 — 2028
-
-💻 **Técnico em Redes de Computadores integrado ao Ensino Médio**
-IF Goiano — Campus Ipameri
-2021 — 2023
+</tr>
+</table>
 
 ---
 
-## 🌱 Atualmente
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabiszsz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiszsz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 💡 Atualmente
+
+<div align="center">
 
 ```text
-📚 Estudando        → Sistemas de Informação
-💻 Desenvolvendo    → Projetos web e APIs
-🌐 Explorando       → Front-end e Back-end
-📱 Praticando       → Flutter
-☕ Aprendendo       → Java + Spring Boot
-🗄️ Trabalhando      → SQL + APIs REST
-🚀 Buscando         → Oportunidades na área de TI
+🎓 Sistemas de Informação
+        ↓
+💻 Desenvolvimento de Software
+        ↓
+☕ Java + Spring Boot
+        ↓
+🌐 Desenvolvimento Web
+        ↓
+📱 Flutter
+        ↓
+🚀 Construindo meu caminho na Tecnologia
 ```
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabiszsz\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiszsz\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 </div>
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gabiszsz-181717?style=for-the-badge\&logo=github)](https://github.com/Gabiszsz)
+<a href="https://github.com/Gabiszsz">
+<img src="https://img.shields.io/badge/GitHub-Gabiszsz-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriella%20Alves-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Gabriella-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💻 "Transformando aprendizado em projetos."
+### 🌱 Aprendendo. Criando. Evoluindo.
 
-⭐ Obrigada por visitar meu perfil!
+<img src="https://komarev.com/ghpvc/?username=Gabiszsz&style=for-the-badge&color=6C63FF&label=VISITAS+NO+PERFIL"/>
 
 </div>
