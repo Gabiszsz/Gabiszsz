@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 💻 Desenvolvedora em formação • 🎓 Sistemas de Informação • 🚀 Tecnologia
+### 💻 Desenvolvedora em formação • 🎓 Sistemas de Informação
 
 </div>
 
